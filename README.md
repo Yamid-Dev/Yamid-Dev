@@ -3,5 +3,5 @@
   <img src="https://img.shields.io/badge/Hola%20mi%20nombre%20es%20Yamid-396548? alt="Imagen 3" width= 300px; style="display: inline-block; margin: 0 10px;" />
 </p>
 <h2 align="center">¿Quién soy?</h2>
-<p align="center">Mi nombre es Yamid Horacio Rodriguez, actualmente vivo en Colombia y estudio en el SENA tecnología en análisis y desarrollo de software. Soy una persona curiosa y creativa, dispuesta a aprender y mejorar continuamente.</p>
+<p align="center">Mi nombre es **Yamid Horacio Rodriguez** tengo **21 años**, actualmente vivo en Colombia y estudio en el SENA tecnología en análisis y desarrollo de software. Soy una persona curiosa y creativa, dispuesta a aprender y mejorar continuamente.</p>
 
