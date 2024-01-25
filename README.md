@@ -10,5 +10,5 @@ Me gustó la idea de que puedes crear lo que imagines, y encontrar soluciones ef
 En este proceso de aprendizaje, y de adquirir las competencias necesarias para desempeñarme como desarrollador de software quiero dar lo mejor de mí para poder aprender y dominar los principales conocimientos y tecnologías que se requieren para colaborar con excelentes equipos en crear proyectos de impacto positivo en la calidad de vida social, y en la sostinibilidad del planeta Tierra. Así mismo acepto el cambio, pues la transformación es lo único constante, y más en el desarrollo de software,además ¡lo necesitamos!.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Gracias%20por%20leerme,%20y%20¡Vamos%20a%20codificar!👨‍💻-D97A07?" alt='Imagen 3' width=300px; style='display: inline-block; margin: 0 10px;'/>
+  <img src="https://img.shields.io/badge/Gracias%20por%20leerme,%20y%20¡Vamos%20a%20codificar!👨‍💻-FFFFFF?" alt='Imagen 3' width=300px; style='display: inline-block; margin: 0 10px;'/>
 </div>
