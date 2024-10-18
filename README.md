@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge" alt="Frontend">
-  <img src="https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge" alt="Backend">
-  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" alt="Frontend">
+  <img src="https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge&logo=node.js" alt="Backend">
+  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="Machine Learning">
 </p>
 
 ---
@@ -22,12 +22,12 @@ I am deeply interested in **psychology** and **philosophy**, as I believe that u
 > Here's an overview of the technologies I'm working with:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge" alt="React.js">
-  <img src="https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/TailwindCSS-PostCSS-blueviolet?style=for-the-badge" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=for-the-badge" alt="MySQL">
-  <img src="https://img.shields.io/badge/CI/CD-Vercel-success?style=for-the-badge" alt="Vercel">
-  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" alt="React.js">
+  <img src="https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-PostCSS-blueviolet?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=for-the-badge&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/CI/CD-Vercel-success?style=for-the-badge&logo=vercel" alt="Vercel">
+  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow">
 </p>
 
 ---
@@ -121,7 +121,7 @@ In the coming months, I'm focusing on:
 Feel free to reach out if you want to collaborate, exchange ideas, or discuss anything about technology, programming, psychology, or philosophy!
 
 <p align="center">
-  <a href="https://wa.me/573124673850"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?style=for-the-badge" alt="WhatsApp"></a>
-  <a href="https://www.linkedin.com/in/thecodeofyamid"><img src="https://img.shields.io/badge/LinkedIn-Yamid%20Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://wa.me/your-whatsapp-number"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?style=for-the-badge" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Yamid%20Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
