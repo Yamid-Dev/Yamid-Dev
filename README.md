@@ -1,50 +1,127 @@
-# Yamid - Desarrollador Full Stack en Proceso 🚀
+<h1 align="center">Yamid - Aspiring Full Stack Developer 🚀</h1>
 
-¡Hola! Soy Yamid, un desarrollador de software en constante aprendizaje. Actualmente, estoy perfeccionando mis habilidades en desarrollo web Full Stack y explorando áreas avanzadas como inteligencia artificial y machine learning. Me apasiona enseñar, inspirar a otros a amar la tecnología y mejorar constantemente.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge" alt="Frontend">
+  <img src="https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge" alt="Backend">
+  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge" alt="Machine Learning">
+</p>
 
-## 🚀 Tecnologías y Habilidades
+---
 
-- **Frontend**: React.js, Vite, TailwindCSS, HTML, CSS, JavaScript (en proceso de profundización).
-- **Backend**: Express, PHP (conexión con front), Node.js (en aprendizaje).
-- **Bases de Datos**: MySQL, conexión remota configurada.
-- **Inteligencia Artificial & Machine Learning**: TensorFlow, PyTorch (en proceso de aprendizaje).
-- **Despliegue**: Vercel (cuenta PRO), Docker y Kubernetes (exploración en progreso).
-- **Otros conocimientos**: Git, GitHub, GitHub Copilot, metodologías ágiles (Scrum, Kanban).
-  
-## 📚 Formación
+## 👋 About Me
 
-Estoy cursando en [Platzi](https://platzi.com/) una variedad de rutas y cursos para expandir mis conocimientos en desarrollo web, machine learning, patrones de diseño, arquitecturas de software y más. Algunos de los cursos que estoy tomando son:
+I'm **Yamid**, a **software developer** passionate about building impactful solutions through technology. My goal is to become a **Full Stack Developer** with expertise in **JavaScript**, **Python**, and **Machine Learning**. I also have a strong commitment to **teaching young people** in my community, helping them discover the joys of programming.
 
-- **React.js con Vite y TailwindCSS**
-- **Python y Django**
-- **Fundamentos de JavaScript**
-- **Machine Learning con scikit-learn**
-- **Arquitecturas limpias**
-- **Docker, Kubernetes, GitHub y GitHub Copilot**
-- **TypeScript**
+I am deeply interested in **psychology** and **philosophy**, as I believe that understanding the human mind and fundamental questions of existence enriches both my personal life and my work as a developer.
 
-Además, he estado trabajando en mi **pensamiento lógico** y en mejorar mi capacidad para enseñar programación a niños y jóvenes en mi comunidad.
+---
 
-## 🔥 Proyectos
+## 📈 Technologies & Skills
 
-- **MarvyShopmarket**: Una plataforma diseñada para ayudar a las tiendas de barrio a manejar sus productos, finanzas, proveedores y empleados.
-- **Extensión de Chrome para plantillas de correos personalizados**: Herramienta que permite insertar plantillas HTML directamente en el correo corporativo.
-  
-Mis proyectos no solo están orientados a la tecnología, sino también a resolver problemas reales para las pequeñas comunidades, como en Chitagá Tech, donde busco ayudar a jóvenes a expandir sus horizontes a través de la programación.
+> Here's an overview of the technologies I'm working with:
 
-## 🎯 Objetivos Actuales
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge" alt="React.js">
+  <img src="https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-PostCSS-blueviolet?style=for-the-badge" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/CI/CD-Vercel-success?style=for-the-badge" alt="Vercel">
+  <img src="https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge" alt="TensorFlow">
+</p>
 
-- Especializarme en **Full Stack** con enfoque en **JavaScript**, **Python** y **Django**.
-- Ampliar mis conocimientos en **Inteligencia Artificial** y **Machine Learning**.
-- Publicar mi **extensión de Chrome** en la Chrome Web Store.
-- Implementar estrategias para optimizar las "cajas negras" generadas por IA en mis proyectos de desarrollo.
-- Desarrollar mi capacidad para organizar información de manera efectiva utilizando herramientas como **Notion**.
+---
 
-## 🌱 En constante aprendizaje...
+## 🎯 Current Focus
 
-Siempre busco aprender y mejorar. Creo firmemente que la tecnología debe ser accesible para todos, y por eso me gusta enseñar lo que sé y seguir creciendo como profesional.
+I'm currently focused on:
 
-Puedes contactarme para colaborar en proyectos o intercambiar ideas sobre desarrollo, IA o cualquier otra área que creas interesante.
+- 🔧 Mastering **JavaScript**, **TypeScript**, **Python**, and **Django** for full stack development.
+- 🤖 Enhancing my **Machine Learning** skills with **TensorFlow**, **PyTorch**, and **scikit-learn**.
+- 🚀 Developing **QA and Test Automation** skills to ensure high-quality software.
+- 🎭 Expanding my knowledge of **software architecture** and **design patterns** to create scalable and maintainable solutions.
+- 🛠️ Learning **Docker**, **Kubernetes**, and **GitHub Copilot** to advance my capabilities in containerization, orchestration, and AI-assisted coding.
+- 🌍 Improving my **English proficiency** to broaden my global reach and professional opportunities.
 
-¡Gracias por pasar por aquí!
+---
+
+## 📚 Education & Courses
+
+I am expanding my knowledge through study programs on **Platzi**. Key areas include:
+
+### **Development** 💻
+- React.js with Vite and TailwindCSS
+- Full Stack Development with JavaScript, Python, and Django
+- Machine Learning with scikit-learn
+- TypeScript: Advanced Types and OOP
+- Frontend Development with HTML and CSS, including Responsive Design
+
+### **Software Architecture** 🏰
+- Clean Architectures
+- Design Patterns and Software Engineering
+- System Design Fundamentals
+
+### **Testing & QA** 🥚
+- Unit Testing with **Python**
+- End-to-End Testing for Web Applications
+- Automation of Testing Processes
+
+### **Other Technologies** 🚀
+- Docker, Kubernetes, GitHub, GitHub Copilot
+- CI/CD Pipelines
+- Git and GitHub for Version Control
+
+---
+
+## 🚀 Projects
+
+Here are some of my ongoing projects:
+
+### 1. **MarvyShopmarket**
+A platform that helps small local stores manage products, finances, suppliers, and employees efficiently.
+
+### 2. **Chrome Email Template Extension**
+A custom **Chrome extension** that allows corporate users to quickly insert HTML email templates, including welcome messages and customer training emails.
+
+### 3. **Chitagá Tech**
+An initiative to bring technology education to young people in small communities, teaching programming skills and inspiring the next generation of tech enthusiasts.
+
+### 4. **Personal Organization System**
+A project focused on creating a **Notion-based organizational system** to effectively manage tasks, events, subscriptions, and professional development.
+
+---
+
+## 🚒 Tools and Platforms
+
+> **I use modern tools to deliver quality results:**
+
+- **Vercel PRO** for fast and efficient deployments.
+- **SuperMaven** to boost productivity, optimizing AI-generated solutions in my projects.
+- **Notion** for organizing and managing information like tasks, events, and professional growth.
+
+---
+
+## 🌍 Community Impact
+
+One of my missions is to **bring technology to small communities**. I believe in the power of education, and I am building **Chitagá Tech** to teach young people how to code and inspire them to pursue their dreams through technology.
+
+---
+
+## 🗓️ What's Next?
+
+In the coming months, I'm focusing on:
+
+- Leveraging and commercializing the projects I'm developing to improve efficiency across different sectors, aiming for impactful real-world applications.
+- Publishing my **Chrome extension** on the Web Store.
+- Enhancing my **English proficiency** to broaden my global reach and professional opportunities.
+- Continuing to explore **psychology** and **philosophy** to better understand human behavior and improve my approach to software development.
+- **Helping businesses, both large and small**, to improve their processes through technology.
+- **Bringing technology to rural areas**, ensuring that even small communities can benefit from modern solutions.
+
+Feel free to reach out if you want to collaborate, exchange ideas, or discuss anything about technology, programming, psychology, or philosophy!
+
+<p align="center">
+  <a href="https://wa.me/573124673850"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?style=for-the-badge" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/thecodeofyamid"><img src="https://img.shields.io/badge/LinkedIn-Yamid%20Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
+</p>
 
